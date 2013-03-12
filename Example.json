@@ -1,0 +1,12 @@
+{
+    "Section_1":{
+            "Key_1": "String 1",
+            "Key_2": "1",
+            "Key_3": "True"
+    },
+    "Section_2":{
+            "Key_1": "String 2",
+            "Key_2": "2",
+            "Key_3": "False"
+    }
+}
