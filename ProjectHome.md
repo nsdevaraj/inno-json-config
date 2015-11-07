@@ -1,0 +1,1 @@
+Simple JSON config file support library.
